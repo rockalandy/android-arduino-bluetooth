@@ -1,0 +1,2 @@
+rootProject.name='Tutorial-arduino-bluetooth'
+include ':app'
